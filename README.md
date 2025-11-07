@@ -33,13 +33,3 @@ The aim of the project was to understand **wireless communication**, **motor con
 
 ---
 
-## 📡 **System Architecture**
-
-
-
-## ✨ **Author**
-**Aditya Manorkar**  
-SVNIT Surat  
-
-If you like the project, please ⭐ the repository!
-
