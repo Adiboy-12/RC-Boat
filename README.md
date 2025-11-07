@@ -12,7 +12,6 @@ The aim of the project was to understand **wireless communication**, **motor con
 - ✅ **Brushless motor control** using ESC  
 - ✅ **Proportional steering** with servo motor  
 - ✅ **2-axis joystick** for smooth throttle + steering control  
-- ✅ **Low-latency communication**  
 - ✅ Designed, wired, and programmed from scratch  
 
 ---
